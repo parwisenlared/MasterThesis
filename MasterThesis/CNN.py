@@ -1,5 +1,5 @@
 from matplotlib import pyplot
-from keras.datasets import cifar10
+from keras.datasets import mnist
 from keras.utils import to_categorical
 
 
@@ -7,7 +7,7 @@ if __name__ == "__main__":
     # example of loading the cifar10 datase
 
 # load dataset
-    (trainX, trainY), (testX, testY) = cifar10.load_data()
+    (trainX, trainY), (testX, testY) = mnist.load_data()
 
 # summarize loaded dataset
     print('Train: X=%s, y=%s' % (trainX.shape, trainY.shape))
@@ -18,7 +18,7 @@ if __name__ == "__main__":
 	# define subplot
 	    pyplot.subplot(330 + 1 + i)
 	# plot raw pixel data
-	    pyplot.imshow(trainX[i])
+	    pyplot.imshow(trainX[i], cmap=pyplot.get_cmap('gray'))
 
 # show the figure
     pyplot.show()
