@@ -1,0 +1,12 @@
+2020-06-30 17:01:02,758 [MainThread  ] [WARNI]  Reference front file was not found at resources/reference_front/ZDT1.pf
+2020-06-30 17:01:30,461 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.ZDT1
+2020-06-30 17:01:30,462 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.ZDT1
+2020-06-30 17:01:39,189 [MainThread  ] [WARNI]  Reference front file was not found at ../jMetalPy/resources/reference_front/ZDT1.pf
+2020-06-30 17:02:04,613 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.ZDT1
+2020-06-30 17:02:04,614 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.ZDT1
+2020-06-30 17:07:31,407 [MainThread  ] [WARNI]  Reference front file was not found at ../jMetalPy/resources/reference_front/ZDT1.pf
+2020-06-30 17:07:42,425 [MainThread  ] [WARNI]  Reference front file was not found at ../jMetalPy/resources/reference_front/ZDT1.pf
+2020-06-30 17:08:22,446 [MainThread  ] [WARNI]  Reference front file was not found at ../jMetalPy/resources/reference_front/ZDT1.pf
+2020-06-30 17:12:06,884 [MainThread  ] [WARNI]  Reference front file was not found at ../jMetalPy/resources/reference_front/ZDT1.pf
+2020-06-30 17:12:34,549 [MainThread  ] [WARNI]  Reference front file was not found at ../jMetalPy/resources/reference_front/ZDT1.pf
+2020-06-30 17:14:30,610 [MainThread  ] [WARNI]  Reference front file was not found at ../jMetalPy/resources/reference_front/ZDT1.pf
